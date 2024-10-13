@@ -1,4 +1,4 @@
-<h1>Teste de IAS para ambiente de desenvolvimento VsCode</h1>
+<h1>Teste de IA's para ambiente de desenvolvimento VsCode</h1>
 <p>Codium</p>
 <p>Amazon codewhisper</p>
 <p>Github Copilot</p>
